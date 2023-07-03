@@ -380,6 +380,7 @@ a {
 .meet__peopleimg {
   width: 196px;
   height: 216px;
+  object-fit: cover;
 }
 
 .meet__people:hover .meet__name-box {
